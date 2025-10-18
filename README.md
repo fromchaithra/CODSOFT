@@ -62,9 +62,10 @@ Feel free to check it out for UI previews and functionality walkthroughs.
 ## 📬 **Connect With Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chaithra-b-s/)
 - 🧑‍💻 [GitHub](https://github.com/chaithra-bs)
-- 💌 Email: your-email@example.com
+- 💌 Email: chaithrabschaithra89@gmail.com
 
 ---
+
 
 ⭐ *If you like this repository, don’t forget to give it a star!*
 
